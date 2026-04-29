@@ -1,0 +1,7 @@
+Abbreviation
+
+What is JVM?
+JVM stands for Java virtual machine
+
+What is JIT?
+JIT stands for just-in-time
